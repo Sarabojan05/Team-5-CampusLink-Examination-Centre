@@ -1,0 +1,4 @@
+Internal training note for CampusLink Examination Center.
+Use loopback networking only for the TCP receiver.
+Preserve original evidence before troubleshooting.
+Do not change real infrastructure or production data.

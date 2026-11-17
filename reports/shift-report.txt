@@ -1,0 +1,24 @@
+CampusLink Examination Center - Shift Readiness Report
+Generated: 2026-11-14 12:00:14 +0100
+Input file: /root/campuslink-ops/data/seat_checkins.csv
+
+Total check-in records (excluding header): 6
+
+Status totals:
+  CHECKED_IN: 3
+  PENDING:    2
+  CONFLICT:   1
+
+Records per lab:
+  Lab-A: 3
+  Lab-B: 2
+  Lab-C: 1
+
+Duplicate lab-and-seat allocations:
+  Lab: Lab-A  Seat: A01
+    Ticket T301  Student STU-101  Status CHECKED_IN
+    Ticket T306  Student STU-106  Status CONFLICT
+
+Disk usage of project directory:
+  Used:  80K  (/root/campuslink-ops)
+  Free on filesystem: 221G
